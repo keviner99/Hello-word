@@ -1,10 +1,10 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+A hello world program
 
-{Provide a description of your software}
+A simple software that outputs hello world to the console using C#.
 
-{Describe your purpose for creating this software.}
+Purpose is to demonstrate outputing the "hello world" string using any programming language of choice.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -12,12 +12,12 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used VS Code, Git, Github
 
-{Describe the programming language that you used}
+C# was used to implement it.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [Microsoft .NET](https://dotnet.microsoft.com/es-es/learn/csharp)
 * [Web Site Name](http://url.link.goes.here)
