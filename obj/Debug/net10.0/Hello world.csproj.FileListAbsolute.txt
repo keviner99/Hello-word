@@ -1,0 +1,15 @@
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\bin\Debug\net10.0\Hello world.exe
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\bin\Debug\net10.0\Hello world.deps.json
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\bin\Debug\net10.0\Hello world.runtimeconfig.json
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\bin\Debug\net10.0\Hello world.dll
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\bin\Debug\net10.0\Hello world.pdb
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\obj\Debug\net10.0\Hello world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\obj\Debug\net10.0\Hello world.AssemblyInfoInputs.cache
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\obj\Debug\net10.0\Hello world.AssemblyInfo.cs
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\obj\Debug\net10.0\Hello world.csproj.CoreCompileInputs.cache
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\obj\Debug\net10.0\Hello world.sourcelink.json
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\obj\Debug\net10.0\Hello world.dll
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\obj\Debug\net10.0\refint\Hello world.dll
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\obj\Debug\net10.0\Hello world.pdb
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\obj\Debug\net10.0\Hello world.genruntimeconfig.cache
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Hello word\obj\Debug\net10.0\ref\Hello world.dll

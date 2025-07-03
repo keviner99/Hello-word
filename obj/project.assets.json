@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\Hello word.csproj",
-      "projectName": "Hello word",
-      "projectPath": "C:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\Hello word.csproj",
+      "projectUniqueName": "C:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\Hello world.csproj",
+      "projectName": "Hello world",
+      "projectPath": "C:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\Hello world.csproj",
       "packagesPath": "C:\\Users\\KEVIN\\.nuget\\packages\\",
       "outputPath": "C:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\obj\\",
       "projectStyle": "PackageReference",
