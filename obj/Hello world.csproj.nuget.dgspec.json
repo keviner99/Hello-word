@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\Hello world.csproj": {}
+    "c:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\Hello world.csproj": {}
   },
   "projects": {
-    "C:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\Hello world.csproj": {
+    "c:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\Hello world.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\Hello world.csproj",
+        "projectUniqueName": "c:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\Hello world.csproj",
         "projectName": "Hello world",
-        "projectPath": "C:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\Hello world.csproj",
+        "projectPath": "c:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\Hello world.csproj",
         "packagesPath": "C:\\Users\\KEVIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\obj\\",
+        "outputPath": "c:\\Kevin\\BYU-Idaho\\2025\\term 4\\CSE 310 Applied Programming\\Hello word\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEVIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
