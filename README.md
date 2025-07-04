@@ -7,7 +7,7 @@ A simple software that outputs hello world to the console using C#.
 Purpose is to do end to end integration with Visual Studio Code and Github
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=FUiFCCYLEXc)
 
 # Development Environment
 
